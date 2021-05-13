@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivambector
-- 👀 I’m interested in Open Source tools
-- 🌱 I’m currently learning React, Vanilla javaScript
-- 💞️ I’m looking to collaborate on anything that helps the community!
-- 📫 I can be reached at <a href="mailto:shivam@debugninja.com">my email</a>
+- 👀 I’m the C.E.O at <a href="https://debugninja.com">Debug Ninja</a>
+- 🌱 I’m currently am extremly interested in servers and open source tools :)
+- 💞️ I’m looking to collaborate on anything that helps the community! - Latest Project : https://tricityvaccine.com/
+- 📫 I can be reached directly at <a href="mailto:shivam@debugninja.com">my email</a>
