@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivambector
 - 👀 I’m the Chief 🥷 at <a href="https://debugninja.com">Debug Ninja</a>
-- 🌱 I’m currently learning @FlutterFlow and loving it :)
+- 🌱 I’m currently learning <a href="https://github.com/FlutterFlow">@FlutterFlow</a> and loving it :)
 - 💞️ I’m looking to collaborate on anything that helps the open source community!
 - 📫 I can be reached directly at <a href="mailto:shivam@debugninja.com">my email</a>
