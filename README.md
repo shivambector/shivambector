@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivambector
-- 👀 I’m the C.E.O at <a href="https://debugninja.com">Debug Ninja</a>
-- 🌱 I’m currently extremly interested in servers and open-source tools :)
-- 💞️ I’m looking to collaborate on anything that helps the community!
+- 👀 I’m the Chief 🥷 at <a href="https://debugninja.com">Debug Ninja</a>
+- 🌱 I’m currently learning @FlutterFlow and loving it :)
+- 💞️ I’m looking to collaborate on anything that helps the open source community!
 - 📫 I can be reached directly at <a href="mailto:shivam@debugninja.com">my email</a>
